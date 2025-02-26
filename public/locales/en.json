@@ -1,0 +1,23 @@
+{
+  "hero": {
+    "desc": " From Lorem Chats to Private 1v1 Video Calls - Discover Pleasure Without Limits."
+  },
+  "step" : {
+    "title": "Seamless connections made simple",
+    "desc": "Discover how easy it is to meet and interact with our models. Follow these simple steps to start your journey.",
+    "first": {
+      "title": "Sign up / Log in",
+      "desc": "Create your free account or log in. Begin exploring with just a few clicks, ensuring your privacy and security from the start."
+    },
+    "second": {
+      "title": "Choose your model",
+      "desc": "Whether you are seeking passionate encounters or bold exploration, our video call feature will serve all your fantasies."
+    },
+    "third": {
+      "title": "Connect instantly",
+      "desc": "Start an engaging convo, through video call or chat. We offer high-quality, secure connections for your private interactions."
+    }
+  }
+
+
+}

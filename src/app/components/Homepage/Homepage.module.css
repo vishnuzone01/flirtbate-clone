@@ -1,0 +1,31 @@
+.online {
+  animation: blinker 2s linear infinite;
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  border: 1px solid green;
+  background-color: green;
+  border-radius: 100%;
+}
+
+.offline {
+  animation: blinker 2s linear infinite;
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  border: 1px solid red;
+  background-color: red;
+  border-radius: 100%;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0.6;
+  }
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0.6;
+  }
+}

@@ -1,0 +1,22 @@
+{
+
+  "hero": {
+    "desc": "Des chats Lorem aux appels vidéo privés 1v1 - Découvrez le plaisir sans limites."
+  },
+  "step" : {
+    "title": "Des connexions transparentes simplifiées",
+    "desc": "Découvrez à quel point il est facile de rencontrer et d'interagir avec nos modèles. Suivez ces étapes simples pour commencer votre voyage.",
+    "first": {
+      "title": "S'inscrire / Se connecter",
+      "desc": "Créez votre compte gratuit ou connectez-vous. Commencez à explorer en quelques clics, garantissant votre confidentialité et votre sécurité dès le départ."
+    },
+    "second": {
+      "title": "Choisissez votre modèle",
+      "desc": "Que vous recherchiez des rencontres passionnées ou une exploration audacieuse, notre fonction d'appel vidéo répondra à tous vos fantasmes."
+    },
+    "third": {
+      "title": "Connectez-vous instantanément",
+      "desc": "Démarrez une conversation engageante, via un appel vidéo ou un chat. Nous proposons des connexions sécurisées de haute qualité pour vos interactions privées."
+    }
+  }
+}
