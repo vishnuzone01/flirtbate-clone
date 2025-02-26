@@ -144,7 +144,7 @@ export default function FilterDrawer({ open, onClose }: FilterDrawerProps) {
             <AccordionDetails>
               <FormControl component="fieldset">
                 <RadioGroup
-                  value={custFilters?.[el.label] || ""}
+                  value={filters?.[el.label] || ""}
                   onChange={handleChange(el.label)}
                   sx={{
                     display: "flex",

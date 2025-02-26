@@ -13,7 +13,6 @@ import {
 import SearchIcon from "@mui/icons-material/Search";
 import EmojiPeopleIcon from "@mui/icons-material/EmojiPeople";
 import VideocamRoundedIcon from "@mui/icons-material/VideocamRounded";
-import GradientButton from "../../GradientButton";
 
 const BackgroundWrapper = styled(Box)(() => ({
   backgroundColor: "#000",

@@ -3,7 +3,7 @@ import { cookies } from "next/headers";
 
 export default getRequestConfig(async () => {
   // Provide a static locale, fetch a user setting,
-  // @ts-ignore
+  //@ts-expect-error fdsg dfg d
   const locale = await cookies()?.get("NEXT_LOCALE")?.value || "en";
 
   return {
